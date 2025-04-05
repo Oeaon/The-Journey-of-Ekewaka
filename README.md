@@ -1,2 +1,4 @@
-The Journey of Ekewaka fue un proyecto de fin de grado al cual se le desarrolló desde febrero a junio de 2021. 
-Es un videojuegos de plataformas 2D desarrollado en Unity.
+The Journey of Ekewaka was a final-year project developed from February to June 2021.
+It is a 2D platform video game developed in Unity.
+
+THE .EXE OF THE GAME IS IN is in: ProyectoFCT\Build\The Journey of Ekewaka.exe
